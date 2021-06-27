@@ -1,0 +1,13 @@
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.exe
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.deps.json
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.runtimeconfig.json
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.runtimeconfig.dev.json
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.dll
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\bin\Debug\netcoreapp3.1\cond01.pdb
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.csproj.AssemblyReference.cache
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.AssemblyInfoInputs.cache
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.AssemblyInfo.cs
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.csproj.CoreCompileInputs.cache
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.dll
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.pdb
+C:\GitHub\CourseCsharp\Exercices\cond01\cond01\obj\Debug\netcoreapp3.1\cond01.genruntimeconfig.cache
